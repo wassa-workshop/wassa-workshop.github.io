@@ -1,4 +1,4 @@
-# Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis
+# 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis
 The 12th edition of WASSA is collocated with ACL 2022
 ## Important dates
 - Feb. 28, 2022-- Submission deadline.
