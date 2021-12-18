@@ -43,7 +43,7 @@ Additionally, system description papers from the shared task will be presented e
 
 ## Shared-Task
 
-UNDER CONSTRUCTION
+TBD
 
 ## Invited Speakers
 
