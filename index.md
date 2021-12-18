@@ -13,8 +13,10 @@ Starting with reviews on products on e-commerce sites and ending with the emotio
 - Public sentiments and communication patterns of public health emergencies, e.g.  COVID-19
 - Resources for subjectivity, sentiment, emotion and social media analysis
 - Opinion retrieval, extraction, categorization, aggregation and summarization
-- Humor, Irony and Sarcasm detection- Mis- and disinformation analysis and the role of affective attributes
-- Aspect and topic-based sentiment and emotion analysis- Analysis of stable traits of social media users, incl.  personality analysis and profiling
+- Humor, Irony and Sarcasm detection
+- Mis and disinformation analysis and the role of affective attributes
+- Aspect and topic-based sentiment and emotion analysis
+- Analysis of stable traits of social media users, incl.  personality analysis and profiling
 - Transfer learning for domain, language and genre portability of sentiment analysis
 - Modelling commonsense knowledge for subjectivity, sentiment or emotion analysis
 - Improvement of NLP tasks using subjectivity and/or sentiment analysis
