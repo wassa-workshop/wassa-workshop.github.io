@@ -21,8 +21,10 @@ Starting with reviews on products on e-commerce sites and ending with the emotio
 - Modelling commonsense knowledge for subjectivity, sentiment or emotion analysis
 - Improvement of NLP tasks using subjectivity and/or sentiment analysis
 - Intrinsic and extrinsic evaluation of subjectivity and/or sentiment analysis
-- The role of emotions in argument mining- Application of theories from related fields to subjectivity and sentiment analysis
-- Multimodal emotion detection and classification- Applications of sentiment and emotion mining
+- The role of emotions in argument mining
+- Application of theories from related fields to subjectivity and sentiment analysis
+- Multimodal emotion detection and classification
+- Applications of sentiment and emotion mining
 
 ## Paper Submission
 
