@@ -1,10 +1,10 @@
 # 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis
-The 12th edition of WASSA is collocated with ACL 2022
+The 12th edition of WASSA is collocated with [ACL 2022](https://www.2022.aclweb.org/)
 ## Important dates
 - Feb. 28, 2022-- Submission deadline.
 - March 26, 2022 -- Notification of acceptance.
 - April 10, 2022 -- Camera-ready papers due.
-- TBD -- Workshop.
+- May 26, 2022 -- Workshop.
 
 ## Background and Envisaged Scope
 
@@ -36,7 +36,9 @@ For the regular research track we accept long & short papers:
 Short papers
 - Long papers may consist of up to four (4) pages of content, with two (2) additional pages of references, and will be presented either orally or as a poster.
 
-These paper submissions will be done via ARR. For more information about templates, guidelines, and instructions, see the <a href="https://aclrollingreview.org/cfp">ARR CFP guidelines</a>.
+
+Submissions can be done through ARR (see the <a href="https://aclrollingreview.org/cfp">ARR CFP guidelines</a>) or alternatively directly through our [OpenReview website](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA). For more information about templates, guidelines, and instructions, check the ARR Call for Papers.
+
 
 New this year is that we also introduce an industry track, for which we accept demo papers:
 - Demo papers
