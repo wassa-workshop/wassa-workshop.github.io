@@ -29,21 +29,19 @@ Starting with reviews on products on e-commerce sites and ending with the emotio
 ## Paper Submission
 
 At WASSA 2022, we will accept three types of submissions:
-For the regular research track we accept long & short papers:
+For the regular research track we accept **long** & **short** papers:
 
-- Long papers
-- Long papers may consist of up to eight (8) pages of content, with any number of additional pages of references, and will be presented orally.
+- **Long** papers may consist of up to eight (8) pages of content, with any number of additional pages of references, and will be presented orally.
 Short papers
-- Long papers may consist of up to four (4) pages of content, with two (2) additional pages of references, and will be presented either orally or as a poster.
+- **Short** papers may consist of up to four (4) pages of content, with two (2) additional pages of references, and will be presented either orally or as a poster.
 
 
 Submissions can be done through ARR (see the <a href="https://aclrollingreview.org/cfp">ARR CFP guidelines</a>) or alternatively directly through our [OpenReview website](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA). For more information about templates, guidelines, and instructions, check the ARR Call for Papers.
 
 
-New this year is that we also introduce an industry track, for which we accept demo papers:
-- Demo papers
+New this year is that we also introduce an industry track, for which we accept **demo papers**:
 
-Demo papers describe system demonstrations, ranging from early prototypes to mature production-ready systems. Please note that Please note: Commercial sales and marketing activities are not appropriate for this track. Demo papers may consist of up to six (6) pages of content, these will be presented as a poster and should include a live demonstration. For more information <a href="https://www.2022.aclweb.org/calldemos">click here</a>.
+- **Demo papers** describe system demonstrations, ranging from early prototypes to mature production-ready systems. Please note that Please note: Commercial sales and marketing activities are not appropriate for this track. Demo papers may consist of up to six (6) pages of content, these will be presented as a poster and should include a live demonstration. For more information <a href="https://www.2022.aclweb.org/calldemos">click here</a>.
 
 Additionally, system description papers from the shared task will be presented either orally or as poster.
 
