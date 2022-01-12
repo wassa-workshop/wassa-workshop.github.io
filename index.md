@@ -45,9 +45,16 @@ New this year is that we also introduce an industry track, for which we accept *
 
 Additionally, system description papers from the shared task will be presented either orally or as poster.
 
-## Shared-Task
+## Shared-Task: Empathy Detection and Emotion Classification
 
-TBD
+Emotion is a concept that is challenging to describe. Yet, as human beings, we understand the emotional effect situations have or could have on us and other people. How can we transfer this knowledge to machines? Is it possible to learn the link between situations and the emotions they trigger in an automatic way?
+
+We propose the Shared Task on Empathy Detection, Emotion Classification and Personnality Detection, organized as part of WASSA 2022 at ACL 2022. This task aims at developing models which can predict empathy and emotion based on essays written in reaction to news articles where there is harm to a person, group, or other.
+
+For further details on the shared task and how to participate, visit the codalab website:
+
+https://codalab.lisn.upsaclay.fr/competitions/834
+
 
 ## Invited Speakers
 
