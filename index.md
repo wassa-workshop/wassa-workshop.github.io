@@ -62,7 +62,7 @@ Important dates:
 
 For further details on the shared task and how to participate, visit the codalab website:
 
-https://codalab.lisn.upsaclay.fr/competitions/834
+[https://codalab.lisn.upsaclay.fr/competitions/834](https://codalab.lisn.upsaclay.fr/competitions/834)
 
 
 ## Invited Speakers
