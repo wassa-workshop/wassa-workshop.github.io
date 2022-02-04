@@ -39,6 +39,8 @@ For the regular research track we accept **long** & **short** papers:
 Short papers
 - **Short** papers may consist of up to four (4) pages of content, with two (2) additional pages of references, and will be presented either orally or as a poster.
 
+We accept that you commit your ARR reviews in parallel to WASSA and another venue. Please note that you must immediately withdraw your paper from WASSA if you decide to publish it elsewhere.
+
 
 Submissions can be done through ARR (see the <a href="https://aclrollingreview.org/cfp">ARR CFP guidelines</a>) or alternatively directly through our [OpenReview website](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA). For more information about templates, guidelines, and instructions, check the ARR Call for Papers.
 
