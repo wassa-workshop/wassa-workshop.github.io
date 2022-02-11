@@ -6,6 +6,7 @@ The 12th edition of WASSA is collocated with [ACL 2022](https://www.2022.aclweb.
 
 ## Important dates
 - Feb. 28, 2022-- Submission deadline.
+- March 15, 2022 -- Commitment deadline is submitting through ARR with reviews
 - March 26, 2022 -- Notification of acceptance.
 - April 10, 2022 -- Camera-ready papers due.
 - May 26, 2022 -- Workshop.
@@ -42,7 +43,9 @@ Short papers
 We accept that you commit your ARR reviews in parallel to WASSA and another venue. Please note that you must immediately withdraw your paper from WASSA if you decide to publish it elsewhere.
 
 
-Submissions can be done through ARR (see the <a href="https://aclrollingreview.org/cfp">ARR CFP guidelines</a>) or alternatively directly through our [OpenReview website](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA). For more information about templates, guidelines, and instructions, check the ARR Call for Papers.
+Submissions without reviews can be done directly through our [OpenReview website](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA). If you have a submission to ARR that already has reviews and would like to commit it to WASSA, you can do that through a 'commitment note', which contain a link to the original ARR submission (**11.2.2022**: this feature is still being implemented by the OpenReview platform and we will announce it as soon as it is ready).
+
+For more information about templates, guidelines, and instructions, check the ARR Call for Papers.
 
 
 New this year is that we also introduce an industry track, for which we accept **demo papers**:
