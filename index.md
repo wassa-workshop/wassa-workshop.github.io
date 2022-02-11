@@ -6,7 +6,7 @@ The 12th edition of WASSA is collocated with [ACL 2022](https://www.2022.aclweb.
 
 ## Important dates
 - Feb. 28, 2022-- Submission deadline.
-- March 15, 2022 -- Commitment deadline is submitting through ARR with reviews
+- March 15, 2022 -- Commitment deadline for submitting through ARR with reviews
 - March 26, 2022 -- Notification of acceptance.
 - April 10, 2022 -- Camera-ready papers due.
 - May 26, 2022 -- Workshop.
