@@ -1,6 +1,20 @@
 # 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis
 The 12th edition of WASSA is collocated with [ACL 2022](https://www.2022.aclweb.org/)
 
+
+ <table>
+  <tr>
+    <td><A href="#contact">Contact</A></td>
+    <td><A href="#importantdates">Important Dates</A></td>
+    <td><A href="#backgroundandenvisagedscope">Background and Envisaged Scope</A></td>
+    <td><A href="#shared-task:empathydetectionandemotionclassification">Shared Task</A></td>
+    <td><A href="#invitedspeakers">Invited Speakers</td>
+    <td><A href="#program">Program</td>
+    <td><A href="#organizers">Organizers</td>
+  </tr>
+</table>
+
+
 ## Contact
 <wassa2022@googlegroups.com>
 
@@ -43,10 +57,12 @@ Short papers
 We accept that you commit your ARR reviews in parallel to WASSA and another venue. Please note that you must immediately withdraw your paper from WASSA if you decide to publish it elsewhere.
 
 
-Submissions without reviews can be done directly through our [OpenReview website](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA). If you have a submission to ARR that already has reviews and would like to commit it to WASSA, you can do that through a 'commitment note', which contain a link to the original ARR submission (**11.2.2022**: this feature is still being implemented by the OpenReview platform and we will announce it as soon as it is ready).
+Submissions without reviews can be done directly through our [OpenReview website](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA).
+
+
+If you have a submission to ARR that already has reviews and would like to commit it to WASSA, you can do that through a 'commitment note', which contains a link to the original ARR submission. To add a commitment note, visit the OpenReview instance https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA and click on 'ACL 2022 Workshop WASSA Commitment Submission'. You will then need to add the title, the URL to the ARR submission with reviews + metareview, and other information.
 
 For more information about templates, guidelines, and instructions, check the ARR Call for Papers.
-
 
 New this year is that we also introduce an industry track, for which we accept **demo papers**:
 
@@ -77,6 +93,10 @@ For further details on the shared task and how to participate, visit the codalab
 ## Invited Speakers
 
 TBD
+
+## Program
+
+To be announced after acceptances.
 
 ## Organizers
 
