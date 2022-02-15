@@ -60,7 +60,7 @@ We accept that you commit your ARR reviews in parallel to WASSA and another venu
 Submissions without reviews can be done directly through our [OpenReview website](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA).
 
 
-If you have a submission to ARR that already has reviews and would like to commit it to WASSA, you can do that through a 'commitment note', which contains a link to the original ARR submission. To add a commitment note, visit the OpenReview instance https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA and click on 'ACL 2022 Workshop WASSA Commitment Submission'. You will then need to add the title, the URL to the ARR submission with reviews + metareview, and other information.
+Authors who received reviews already through the ACL Rolling Review process are invited to commit their reviewed paper to WASSA. To do so, please go to https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA on OpenReview and click on "ACL 2022 Workshop WASSA Commitment Submission". You will then need to add the title, the URL to the ARR submission with reviews + metareview, and other information.
 
 For more information about templates, guidelines, and instructions, check the ARR Call for Papers.
 
