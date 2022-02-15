@@ -5,10 +5,11 @@ The 12th edition of WASSA is collocated with [ACL 2022](https://www.2022.aclweb.
  <table>
   <tr>
     <td><A href="#contact">Contact</A></td>
-    <td><A href="#important">Important Dates</A></td>
-    <td><A href="#background">Background and Envisaged Scope</A></td>
-    <td><A href="#shared">Shared Task</A></td>
-    <td><A href="#invited">Invited Speakers</A></td>
+    <td><A href="#important-dates">Important Dates</A></td>
+    <td><A href="#background-and-envisaged-scope">Background and Envisaged Scope</A></td>
+    <td><A href="#paper-submission">Paper Submission</A></td>
+    <td><A href="#shared-task-empathy-detection-and-emotion-classification">Shared Task</A></td>
+    <td><A href="#invited-speakers">Invited Speakers</A></td>
     <td><A href="#program">Program</A></td>
     <td><A href="#organizers">Organizers</A></td>
   </tr>
