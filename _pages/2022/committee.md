@@ -33,7 +33,7 @@ Shabnam Tafreshi,  University of Maryland\
 Sawsan Alqahtani, Amazon Web Services\
 João Sedoc, New York University\
 Roman Klinger, University of Stuttgart\
-Alexandra Balahur, European Commission’s Joint Research Center of Ispra\
+Alexandra Balahur, European Commission’s Joint Research Center of Ispra
 
 
 For questions and comments regarding the workshop please contact the organisers at <span class="contactaddr">wassa2022<span class="athere"></span>googlegroups.com</span>.
