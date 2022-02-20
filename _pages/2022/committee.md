@@ -40,37 +40,37 @@ For questions and comments regarding the workshop please contact the organisers 
 
 ### Programme Committee
 
-Kaveri Anuranjana
-Ashutosh Modi
-Constantin Orasan
-Cristina Bosco
-Daniel Preotiuc-Pietro
-Elma Kerz
-Els Lefever
-Edison Marrese-Taylor
-Enrica Troiano
-Eugene Yang
-Tommaso Fornaciari
-Imane Guellil
-Jay Kumar
-Jessica Ouyang
-Laura Ana Maria Oberlaender
-Lingjia Deng
-Luna Debruyne
-Michael Gamon
-Michael Wiegand
-Mayank Kulkarni
-Günter Neumann
-Nikola Ljubešić
-Piek Vossen
-Pranaydeep Singh
-Paolo Rosso
-Ramya Akula
-Saif Tumrani
-Sean Papay
-Sotiris Lamprinidis
-Salim Sazzed
-Sven Buechel
-Taras Zagibalov
+Kaveri Anuranjana\
+Ashutosh Modi\
+Constantin Orasan\
+Cristina Bosco\
+Daniel Preotiuc-Pietro\
+Elma Kerz\
+Els Lefever\
+Edison Marrese-Taylor\
+Enrica Troiano\
+Eugene Yang\
+Tommaso Fornaciari\
+Imane Guellil\
+Jay Kumar\
+Jessica Ouyang\
+Laura Ana Maria Oberlaender\
+Lingjia Deng\
+Luna Debruyne\
+Michael Gamon\
+Michael Wiegand\
+Mayank Kulkarni\
+Günter Neumann\
+Nikola Ljubešić\
+Piek Vossen\
+Pranaydeep Singh\
+Paolo Rosso\
+Ramya Akula\
+Saif Tumrani\
+Sean Papay\
+Sotiris Lamprinidis\
+Salim Sazzed\
+Sven Buechel\
+Taras Zagibalov\
 Wazir Ali
 
