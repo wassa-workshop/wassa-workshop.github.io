@@ -47,7 +47,9 @@ All deadlines are 23:59 UTC-12.
 
 
 At WASSA 2022, we will accept three types of submissions:
-For the regular research track we accept **long** & **short** papers:
+For the regular research track we accept **long** & **short** papers.
+
+Additionally, we accept double submissions and double commitment of ARR reviews in parallel to WASSA and another venue. Please note that you must immediately withdraw your paper from WASSA if you decide to publish it elsewhere.
 
 #### Long papers
 **Long** papers may consist of up to eight (8) pages of content, with any number of additional pages of references, and will be presented orally.
@@ -56,7 +58,6 @@ For the regular research track we accept **long** & **short** papers:
 #### Short papers
 **Short** papers may consist of up to four (4) pages of content, with two (2) additional pages of references, and will be presented either orally or as a poster.
 
-We accept that you commit your ARR reviews in parallel to WASSA and another venue. Please note that you must immediately withdraw your paper from WASSA if you decide to publish it elsewhere.
 
 #### Demo papers
 New this year is that we also introduce an industry track, for which we accept **demo papers**:

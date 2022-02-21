@@ -17,7 +17,7 @@ header:
 * April 10, 2022 – Camera-ready papers due.
 * May 26, 2022 – Workshop.
 
-[OpenReview Workshop Instance](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA)) for both normal submissions and ARR commitments.
+[OpenReview Workshop Instance](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA) for both normal submissions and ARR commitments.
 
 
 All deadlines are 23:59 UTC-12.
