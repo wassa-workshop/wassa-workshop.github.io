@@ -14,6 +14,8 @@ header:
 
 ## News
 
+**February 27**: We have extended the submission deadline until March 5th.
+
 **February 10**: We have added the option to commit ARR submissions + reviews via the [OpenReview Workshop Portal](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA).
 
 **December 22**: The [OpenReview Workshop Portal](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA) is up.
