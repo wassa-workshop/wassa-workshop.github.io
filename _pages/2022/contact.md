@@ -23,3 +23,5 @@ function init(){
 window.addEventListener("load", init, false);
 </script>
 For questions and comments regarding the workshop please contact the organisers at <span class="contactaddr">wassa2022<span class="athere"></span>googlegroups.com</span>.
+
+For anything regarding the **shared task**, instead use, at <span class="contactaddr">wassa2022empathy<span class="athere"></span>@gmail.com</span>.
