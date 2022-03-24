@@ -52,7 +52,6 @@ Enrica Troiano\
 Eugene Yang\
 Tommaso Fornaciari\
 Imane Guellil\
-Jay Kumar\
 Jessica Ouyang\
 Laura Ana Maria Oberlaender\
 Lingjia Deng\
@@ -65,12 +64,20 @@ Nikola Ljubešić\
 Piek Vossen\
 Pranaydeep Singh\
 Paolo Rosso\
-Ramya Akula\
 Saif Tumrani\
 Sean Papay\
 Sotiris Lamprinidis\
 Salim Sazzed\
 Sven Buechel\
 Taras Zagibalov\
-Wazir Ali
+Wazir Ali\
+David Samuel\
+Rodrigo Agerri\
+Andrew Moore\
+Soumya Vadlamannati\
+Jenny Chen\
+Silvio Amir\
+Somnath Banerjee\
+Maaz Amjad
+
 
