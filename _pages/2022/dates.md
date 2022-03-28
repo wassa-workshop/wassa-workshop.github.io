@@ -13,7 +13,7 @@ header:
 
 * ~~Feb. 28~~ March 5, 2022– Submission deadline.
 * March 15, 2022 – Commitment deadline for submitting through ARR with reviews
-* March 26, 2022 – Notification of acceptance.
+* ~~March 26~~ March 30, 2022 – Notification of acceptance.
 * April 10, 2022 – Camera-ready papers due.
 * May 26, 2022 – Workshop.
 
