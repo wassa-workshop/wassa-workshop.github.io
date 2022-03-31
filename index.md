@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "WASSA at ACL 2022<br/> Dublin, Ireland, 26 May, 2022"
+excerpt: "WASSA at ACL 2022<br/> Dublin, Ireland, 26 May, 2022<br>Hybrid (in person and online)"
 layout: single
 classes: wide
 header:
@@ -24,7 +24,7 @@ header:
 
 ### Invited Speakers
 
-TBA
+[Dirk Hovy](http://www.dirkhovy.com/index.php): Bocconi University
 
 ### Background and Envisaged Scope
 
