@@ -14,6 +14,8 @@ header:
 
 ## News
 
+**April 9**: Dirk Hovy and Rada Mihalcea have agreed to give keynotes for WASSA 2022.
+
 **March 23**: Due to the deadline extension and reviewing difficulties, the final decisions will be sent by March 30th.
 
 **February 27**: We have extended the submission deadline until March 5th.
@@ -25,6 +27,8 @@ header:
 ### Invited Speakers
 
 [Dirk Hovy](http://www.dirkhovy.com/index.php): Bocconi University
+
+[Rada Mihlcea](https://web.eecs.umich.edu/~mihalcea/): University of Michigan
 
 ### Background and Envisaged Scope
 
