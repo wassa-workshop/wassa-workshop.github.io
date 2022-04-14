@@ -12,19 +12,19 @@ header:
 ## Schedule
 
 
-,  Time          ,  Programmed Session          ,
-, ---------------, -----------------------------,
-,  09:00 - 09:10 ,  Opening                     ,
-,  09:10 - 10:30 ,  Oral presentation session 1 ,
-,  10:30 - 11:00 ,  Coffee Break                ,
-,  11:00 - 12:00 ,  Shared Task Session         ,
-,  12:00–13:00   ,  Invited Talk: Dirk Hovy     ,
-,  13:00 - 14:00 ,  Lunch Break                 ,
-,  14:00 - 15:00 ,  Invited Talk: Rada Mihalcea ,
-,  15:00 - 15:30 ,  Coffee break                ,
-,  15:30 - 16:15 ,  In-person poster session    ,
-,  16:15 - 17:15 ,  Oral presentation session 2 ,
-,  17:15 - 18:00 ,  Virtual poster session      ,
+|  Time          |  Programmed Session          |
+| ---------------| -----------------------------|
+|  09:00 - 09:10 |  Opening                     |
+|  09:10 - 10:30 |  Oral presentation session 1 |
+|  10:30 - 11:00 |  Coffee Break                |
+|  11:00 - 12:00 |  Shared Task Session         |
+|  12:00–13:00   |  Invited Talk: Dirk Hovy     |
+|  13:00 - 14:00 |  Lunch Break                 |
+|  14:00 - 15:00 |  Invited Talk: Rada Mihalcea |
+|  15:00 - 15:30 |  Coffee break                |
+|  15:30 - 16:15 |  In-person poster session    |
+|  16:15 - 17:15 |  Oral presentation session 2 |
+|  17:15 - 18:00 |  Virtual poster session      |
 
 ### Oral presentation session 1
 - 9:10 - 9:30 - *Assessment of Massively Multilingual Sentiment Classifiers.* Krzysztof Rajda, Lukasz Augustyniak, Piotr Gramacki, Marcin Gruza, Szymon Woźniak, Tomasz Jan Kajdanowicz.
