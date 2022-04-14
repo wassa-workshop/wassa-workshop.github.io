@@ -15,7 +15,7 @@ header:
 |  Time          |  Programmed Session          |
 | ---------------| -----------------------------|
 |  09:00 - 09:10 |  Opening                     |
-|  09:10 - 10:30 |  Oral presentation session 1 |
+|  09:10 - 10:30 |  [Oral presentation session 1](#oral-presentation-session-1) |
 |  10:30 - 11:00 |  Coffee Break                |
 |  11:00 - 12:00 |  Shared Task Session         |
 |  12:00–13:00   |  Invited Talk: Dirk Hovy     |
@@ -25,6 +25,20 @@ header:
 |  15:30 - 16:15 |  In-person poster session    |
 |  16:15 - 17:15 |  Oral presentation session 2 |
 |  17:15 - 18:00 |  Virtual poster session      |
+
+### Invited Talk: Dirk Hovy
+
+#### Bio
+Dirk Hovy is an associate professor of Computer Science in the department of marketing at Bocconi University and director of the Data and Marketing Insights research unit at the Bocconi Center for Data Science and Analytics. He did his PhD at the University of Southern California in Los Angeles, working as research assistant at the Information Sciences Institute.
+
+His research focuses on computational social science and he is interested in what language can tell us about society, and what computers can tell us about language, as well as ethics in NLP and demographic biases.
+
+
+
+### Invited Talk: Rada Mihalcea
+
+#### Bio
+Rada Mihalcea is a full professor of computer science and engineering at the University of Michigan. Her research focuses on natural language processing, multimodal processing, and computational social science. She has published extensively on sentiment and subjectivity, multimodal deception detection, and computational social linguistics.
 
 ### Oral presentation session 1
 - 9:10 - 9:30 - *Assessment of Massively Multilingual Sentiment Classifiers.* Krzysztof Rajda, Lukasz Augustyniak, Piotr Gramacki, Marcin Gruza, Szymon Woźniak, Tomasz Jan Kajdanowicz.
