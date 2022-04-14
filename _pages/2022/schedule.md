@@ -29,6 +29,7 @@ All times are local Dublin (UTC/GMT +1 hour)
 
 
 ### Oral presentation session 1
+---
 - 9:10 - 9:30 - *Assessment of Massively Multilingual Sentiment Classifiers.* Krzysztof Rajda, Lukasz Augustyniak, Piotr Gramacki, Marcin Gruza, Szymon Woźniak, Tomasz Jan Kajdanowicz.
 - 9:30 - 9:50 - *English-Malay Word Embeddings Alignment for Cross-lingual Emotion Classification with Hierarchical Attention Network.* Ying Hao Lim, Jasy Suet Yan Liew.
 - 9:50 - 10:10 - *Uncertainty Regularized Multi-Task Learning.* Kourosh Meshgi, Maryam Sadat Mirzaei, Satoshi Sekine.
@@ -36,7 +37,7 @@ All times are local Dublin (UTC/GMT +1 hour)
 
 
 ### Shared Task
-
+---
 - *Empathy and Distress Prediction using Transformer Multi-output Regression and Emotion Analysis with an Ensemble of Supervised and Zero-Shot Learning Models.* Flor Miriam Plaza del Arco,Jaime Collado-Montañez, L. Alfonso Ureña, María-Teresa Martín-Valdivia.
 - *Leveraging Emotion-Specific features to improve Transformer performance for Emotion Classification.* Shaily Desai, Atharva M Kshirsagar, Aditi Sidnerlikar, Nikhil Vinod Khodake, Manisha Vinayak Marathe.
 - *Transformer-based Architecture for Empathy Prediction and Emotion Classification.* Himil Vasava, Pramegh Prashant Uikey, Gaurav Ramesh Wasnik, Raksha Sharma.
@@ -50,6 +51,7 @@ All times are local Dublin (UTC/GMT +1 hour)
 
 
 ### Invited Talk: Dirk Hovy
+---
 
 <img src="/assets/images/dirk_hovy.jpeg" width="200" height="100">
 
@@ -62,7 +64,7 @@ His research focuses on computational social science and he is interested in wha
 
 
 ### Invited Talk: Rada Mihalcea
-
+---
 <img src="/assets/images/rada_mihalcea.jpg" width="200" height="100">
 
 
@@ -72,6 +74,7 @@ Rada Mihalcea is a full professor of computer science and engineering at the Uni
 
 
 ### In-person poster session
+---
 - *On the Complementarity of Images and Text for the Expression of Emotions in Social Media.* Anna Khlyzova, Carina Silberer, Roman Klinger.
 - *Multiplex Anti-Asian Sentiment before and during the Pandemic: Introducing New Datasets from Twitter Mining.* Hao Lin, Pradeep Kumar Nalluri, Lantian Li, Yifan Sun, Yongjun Zhang.
 - *SentEMO: A Multilingual Adaptive Platform for Aspect-based Sentiment and Emotion Analysis.* Ellen De Geyndt, Orphee De Clercq, Cynthia Van Hee, Els Lefever, Pranaydeep Singh, Olivier Parent, Veronique Hoste.
@@ -81,13 +84,14 @@ Rada Mihalcea is a full professor of computer science and engineering at the Uni
 
 
 ### Oral presentation session 2
+---
 - 16:15 - 16:35 - *Distinguishing In-Groups and Onlookers by Language Use.* Joshua R Minot, Milo Z Trujillo, Samuel F Rosenblatt, Guillermo de Anda-Jáuregui, Emily Moog, Allison M. Roth, Briane Paul Samson, Laurent Hébert-Dufresne.
 - 16:35 - 16:55 - *“splink” is happy and “phrouth” is scary: Emotion Intensity Analysis for Nonsense Words.* Valentino Sabbatino, Enrica Troiano, Antje Schweitzer, Roman Klinger.
 - 16:55 - 17:15 - *Explaining the Sentiment Prediction with Emotion Carriers: A Study on Personal Narratives.* Seyed Mahed Mousavi, Gabriel Roccabruna, Aniruddha Tammewar, Steve Azzolin, Giuseppe Riccardi.
 
 
 ### Virtual poster session
-
+---
 - *Domain-Aware Contrastive Knowledge Transfer for Multi-domain Imbalanced Data.* Zixuan Ke, Mohammad Kachuee, Sungjin Lee.
 - *Infusing Knowledge from Wikipedia to Enhance Stance Detection.* Zihao He, Negar Mokhberian, Kristina Lerman.
 - *Understanding BERT's Mood: The Role of Contextual-Embeddings as User-Representations for Depression Assessment.* Matthew Matero, Albert Hung, H. Schwartz.
