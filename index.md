@@ -14,6 +14,8 @@ header:
 
 ## News
 
+**April 14**: We have the [provisional schedule](https://wassa-workshop.github.io/2022/schedule) ready.
+
 **April 9**: Dirk Hovy and Rada Mihalcea have agreed to give keynotes for WASSA 2022.
 
 **March 23**: Due to the deadline extension and reviewing difficulties, the final decisions will be sent by March 30th.
