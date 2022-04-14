@@ -51,6 +51,9 @@ All times are local Dublin (UTC/GMT +1 hour)
 
 ### Invited Talk: Dirk Hovy
 
+<img src="/assets/images/dirk_hovy.jpeg" width="200" height="100">
+
+
 #### Bio
 Dirk Hovy is an associate professor of Computer Science in the department of marketing at Bocconi University and director of the Data and Marketing Insights research unit at the Bocconi Center for Data Science and Analytics. He did his PhD at the University of Southern California in Los Angeles, working as research assistant at the Information Sciences Institute.
 
@@ -59,6 +62,9 @@ His research focuses on computational social science and he is interested in wha
 
 
 ### Invited Talk: Rada Mihalcea
+
+<img src="/assets/images/rada_mihalcea.jpg" width="200" height="100">
+
 
 #### Bio
 Rada Mihalcea is a full professor of computer science and engineering at the University of Michigan. Her research focuses on natural language processing, multimodal processing, and computational social science. She has published extensively on sentiment and subjectivity, multimodal deception detection, and computational social linguistics.
