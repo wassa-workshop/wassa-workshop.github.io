@@ -10,6 +10,7 @@ header:
 ---
 
 ## Schedule
+All times are local Dublin (UTC/GMT +1 hour)
 
 
 |  Time          |  Programmed Session          |
