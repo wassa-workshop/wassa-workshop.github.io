@@ -11,7 +11,7 @@ header:
 
 ## Schedule
 
------------------------------------------------
+
 ,  Time          ,  Programmed Session          ,
 , ---------------, -----------------------------,
 ,  09:00 - 09:10 ,  Opening                     ,
@@ -25,7 +25,6 @@ header:
 ,  15:30 - 16:15 ,  In-person poster session    ,
 ,  16:15 - 17:15 ,  Oral presentation session 2 ,
 ,  17:15 - 18:00 ,  Virtual poster session      ,
------------------------------------------------
 
 ### Oral presentation session 1
 - 9:10 - 9:30 - *Assessment of Massively Multilingual Sentiment Classifiers.* Krzysztof Rajda, Lukasz Augustyniak, Piotr Gramacki, Marcin Gruza, Szymon Woźniak, Tomasz Jan Kajdanowicz.
