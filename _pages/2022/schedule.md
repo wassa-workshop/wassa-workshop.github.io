@@ -45,17 +45,10 @@ All times are local Dublin (UTC/GMT +1 hour)
 
 ---
 
+- *Shared Task Overview* Valentin Barriere, Shabnam Tafreshi, João Sedoc, Sawsan Alqahtani
 - *Empathy and Distress Prediction using Transformer Multi-output Regression and Emotion Analysis with an Ensemble of Supervised and Zero-Shot Learning Models.* Flor Miriam Plaza del Arco,Jaime Collado-Montañez, L. Alfonso Ureña, María-Teresa Martín-Valdivia.
-- *Leveraging Emotion-Specific features to improve Transformer performance for Emotion Classification.* Shaily Desai, Atharva M Kshirsagar, Aditi Sidnerlikar, Nikhil Vinod Khodake, Manisha Vinayak Marathe.
-- *Transformer-based Architecture for Empathy Prediction and Emotion Classification.* Himil Vasava, Pramegh Prashant Uikey, Gaurav Ramesh Wasnik, Raksha Sharma.
-- *Team IITP-AINLPML at WASSA 2022: Empathy Detection, Emotion Classification and Personality Detection.* Soumitra Ghosh, Dhirendra Kumar Maurya, Asif Ekbal, Pushpak Bhattacharyya.
-- *SURREY-CTS-NLP at WASSA2022: An Experiment of Discourse and Sentiment Analysis for the Prediction of Empathy, Distress and Emotion.* Shenbin Qian, Constantin Orasan, Diptesh Kanojia, Hadeel Saadany, Félix do Carmo.
-- *Transformer based ensemble for emotion detection.* Aditya Kane, Shantanu Patankar, Sahil Khose, Neeraja Kirtane.
-- *IUCL at WASSA 2022 Shared Task: A Text-only Approach to Empathy and Emotion Detection.* Yue Chen, Yingnan Ju, Sandra Kübler.
-- *An Ensemble Approach to Detect Emotions at an Essay Level.* Himanshu Maheshwari, Vasudeva Varma.
-- *Prompt-based Pre-trained Model for Personality and Interpersonal Reactivity Prediction.* Bin Li, Yixuan Weng, qiya song, Fuyan Ma, Bin Sun, Shutao Li.
 - *Continuing Pre-trained Model with Multiple Training Strategies for Emotional Classification.* Bin Li, Yixuan Weng, qiya song, Bin Sun, Shutao Li.
-
+- *Prompt-based Pre-trained Model for Personality and Interpersonal Reactivity Prediction.* Bin Li, Yixuan Weng, qiya song, Fuyan Ma, Bin Sun, Shutao Li.
 
 ### Invited Talk: Dirk Hovy
 
@@ -92,7 +85,7 @@ Rada Mihalcea is a full professor of computer science and engineering at the Uni
 - *SentEMO: A Multilingual Adaptive Platform for Aspect-based Sentiment and Emotion Analysis.* Ellen De Geyndt, Orphee De Clercq, Cynthia Van Hee, Els Lefever, Pranaydeep Singh, Olivier Parent, Veronique Hoste.
 - *Irony Detection for Dutch: a Venture into the Implicit.* Aaron Maladry, Els Lefever, Cynthia Van Hee, Veronique Hoste.
 - *Items from Psychometric Tests as Training Data for Personality Profiling Models of Twitter Users.* Anne Kreuter, Kai Sassenberg, Roman Klinger.
-
+- *Polite Task-oriented Dialog Agents: To Generate or to Rewrite?* Diogo Silva, David Semedo, Joao Magalhaes.
 
 
 ### Oral presentation session 2
@@ -108,6 +101,12 @@ Rada Mihalcea is a full professor of computer science and engineering at the Uni
 
 ---
 
+
+- *On the Complementarity of Images and Text for the Expression of Emotions in Social Media.* Anna Khlyzova, Carina Silberer, Roman Klinger.
+- *Multiplex Anti-Asian Sentiment before and during the Pandemic: Introducing New Datasets from Twitter Mining.* Hao Lin, Pradeep Kumar Nalluri, Lantian Li, Yifan Sun, Yongjun Zhang.
+- *SentEMO: A Multilingual Adaptive Platform for Aspect-based Sentiment and Emotion Analysis.* Ellen De Geyndt, Orphee De Clercq, Cynthia Van Hee, Els Lefever, Pranaydeep Singh, Olivier Parent, Veronique Hoste.
+- *Irony Detection for Dutch: a Venture into the Implicit.* Aaron Maladry, Els Lefever, Cynthia Van Hee, Veronique Hoste.
+- *Items from Psychometric Tests as Training Data for Personality Profiling Models of Twitter Users.* Anne Kreuter, Kai Sassenberg, Roman Klinger.
 - *Domain-Aware Contrastive Knowledge Transfer for Multi-domain Imbalanced Data.* Zixuan Ke, Mohammad Kachuee, Sungjin Lee.
 - *Infusing Knowledge from Wikipedia to Enhance Stance Detection.* Zihao He, Negar Mokhberian, Kristina Lerman.
 - *Understanding BERT's Mood: The Role of Contextual-Embeddings as User-Representations for Depression Assessment.* Matthew Matero, Albert Hung, H. Schwartz.
@@ -119,7 +118,13 @@ Rada Mihalcea is a full professor of computer science and engineering at the Uni
 - *Tagging Without Rewriting: A Probabilistic Model for Unpaired Sentiment and Style Transfer.* Shuo Yang.
 - *NLPOP: a Dataset for Popularity Prediction of Promoted NLP Research on Twitter.* Leo Obadić, Martin Tutek, Jan Snajder.
 - *Polite Task-oriented Dialog Agents: To Generate or to Rewrite?* Diogo Silva, David Semedo, Joao Magalhaes.
-
+- *Leveraging Emotion-Specific features to improve Transformer performance for Emotion Classification.* Shaily Desai, Atharva M Kshirsagar, Aditi Sidnerlikar, Nikhil Vinod Khodake, Manisha Vinayak Marathe.
+- *Transformer-based Architecture for Empathy Prediction and Emotion Classification.* Himil Vasava, Pramegh Prashant Uikey, Gaurav Ramesh Wasnik, Raksha Sharma.
+- *Team IITP-AINLPML at WASSA 2022: Empathy Detection, Emotion Classification and Personality Detection.* Soumitra Ghosh, Dhirendra Kumar Maurya, Asif Ekbal, Pushpak Bhattacharyya.
+- *SURREY-CTS-NLP at WASSA2022: An Experiment of Discourse and Sentiment Analysis for the Prediction of Empathy, Distress and Emotion.* Shenbin Qian, Constantin Orasan, Diptesh Kanojia, Hadeel Saadany, Félix do Carmo.
+- *Transformer based ensemble for emotion detection.* Aditya Kane, Shantanu Patankar, Sahil Khose, Neeraja Kirtane.
+- *IUCL at WASSA 2022 Shared Task: A Text-only Approach to Empathy and Emotion Detection.* Yue Chen, Yingnan Ju, Sandra Kübler.
+- *An Ensemble Approach to Detect Emotions at an Essay Level.* Himanshu Maheshwari, Vasudeva Varma.
 
 
 
