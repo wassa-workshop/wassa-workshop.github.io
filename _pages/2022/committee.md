@@ -30,7 +30,7 @@ Jeremy Barnes, University of the Basque Country UPV/EHU\
 Orphée De Clercq, Ghent University\
 Valentin Barriere, European Commission’s Joint Research Center of Ispra\
 Shabnam Tafreshi,  University of Maryland\
-Sawsan Alqahtani, Amazon Web Services\
+Sawsan Alqahtani, Princess Noura Bint Abdulrahman University\
 João Sedoc, New York University\
 Roman Klinger, University of Stuttgart\
 Alexandra Balahur, European Commission’s Joint Research Center of Ispra
