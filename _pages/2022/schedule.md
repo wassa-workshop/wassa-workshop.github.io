@@ -35,10 +35,10 @@ All times are local Dublin (UTC/GMT +1 hour)
 
 ---
 
-- 9:10 - 9:30 - *Assessment of Massively Multilingual Sentiment Classifiers.* Krzysztof Rajda, Lukasz Augustyniak, Piotr Gramacki, Marcin Gruza, Szymon Woźniak, Tomasz Jan Kajdanowicz.
-- 9:30 - 9:50 - *English-Malay Word Embeddings Alignment for Cross-lingual Emotion Classification with Hierarchical Attention Network.* Ying Hao Lim, Jasy Suet Yan Liew.
-- 9:50 - 10:10 - *Uncertainty Regularized Multi-Task Learning.* Kourosh Meshgi, Maryam Sadat Mirzaei, Satoshi Sekine.
-- 10:10 - 10:30 - *Improving Social Meaning Detection with Pragmatic Masking and Surrogate Fine-Tuning.* Chiyu Zhang, Muhammad Abdul-Mageed.
+- 9:10 - 9:30 - *Assessment of Massively Multilingual Sentiment Classifiers.* Krzysztof Rajda, Lukasz Augustyniak, Piotr Gramacki, Marcin Gruza, Szymon Woźniak, Tomasz Jan Kajdanowicz. <span style="color:blue">In-person</span>
+- 9:30 - 9:50 - *English-Malay Word Embeddings Alignment for Cross-lingual Emotion Classification with Hierarchical Attention Network.* Ying Hao Lim, Jasy Suet Yan Liew. <span style="color:blue">Online</span>
+- 9:50 - 10:10 - *Uncertainty Regularized Multi-Task Learning.* Kourosh Meshgi, Maryam Sadat Mirzaei, Satoshi Sekine.<span style="color:blue">Online</span>
+- 10:10 - 10:30 - *Improving Social Meaning Detection with Pragmatic Masking and Surrogate Fine-Tuning.* Chiyu Zhang, Muhammad Abdul-Mageed.<span style="color:blue">Online</span>
 
 
 ### Shared Task
@@ -92,9 +92,9 @@ Rada Mihalcea is a full professor of computer science and engineering at the Uni
 
 ---
 
-- 16:15 - 16:35 - *Distinguishing In-Groups and Onlookers by Language Use.* Joshua R Minot, Milo Z Trujillo, Samuel F Rosenblatt, Guillermo de Anda-Jáuregui, Emily Moog, Allison M. Roth, Briane Paul Samson, Laurent Hébert-Dufresne.
-- 16:35 - 16:55 - *“splink” is happy and “phrouth” is scary: Emotion Intensity Analysis for Nonsense Words.* Valentino Sabbatino, Enrica Troiano, Antje Schweitzer, Roman Klinger.
-- 16:55 - 17:15 - *Explaining the Sentiment Prediction with Emotion Carriers: A Study on Personal Narratives.* Seyed Mahed Mousavi, Gabriel Roccabruna, Aniruddha Tammewar, Steve Azzolin, Giuseppe Riccardi.
+- 16:15 - 16:35 - *Distinguishing In-Groups and Onlookers by Language Use.* Joshua R Minot, Milo Z Trujillo, Samuel F Rosenblatt, Guillermo de Anda-Jáuregui, Emily Moog, Allison M. Roth, Briane Paul Samson, Laurent Hébert-Dufresne. <span style="color:blue">In-person</span>
+- 16:35 - 16:55 - *“splink” is happy and “phrouth” is scary: Emotion Intensity Analysis for Nonsense Words.* Valentino Sabbatino, Enrica Troiano, Antje Schweitzer, Roman Klinger. <span style="color:blue">In-person</span>
+- 16:55 - 17:15 - *Explaining the Sentiment Prediction with Emotion Carriers: A Study on Personal Narratives.* Seyed Mahed Mousavi, Gabriel Roccabruna, Aniruddha Tammewar, Steve Azzolin, Giuseppe Riccardi. <span style="color:blue">In-person</span>
 
 
 ### Virtual poster session
