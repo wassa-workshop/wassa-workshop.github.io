@@ -38,7 +38,7 @@ All times are local Dublin (UTC/GMT +1 hour)
 - 9:10 - 9:30 - *Assessment of Massively Multilingual Sentiment Classifiers.* Krzysztof Rajda, Lukasz Augustyniak, Piotr Gramacki, Marcin Gruza, Szymon Woźniak, Tomasz Jan Kajdanowicz. <span style="color:blue">In-person</span>
 - 9:30 - 9:50 - *English-Malay Word Embeddings Alignment for Cross-lingual Emotion Classification with Hierarchical Attention Network.* Ying Hao Lim, Jasy Suet Yan Liew. <span style="color:blue">Online</span>
 - 9:50 - 10:10 - *Uncertainty Regularized Multi-Task Learning.* Kourosh Meshgi, Maryam Sadat Mirzaei, Satoshi Sekine.<span style="color:blue">Online</span>
-- 10:10 - 10:30 - *Improving Social Meaning Detection with Pragmatic Masking and Surrogate Fine-Tuning.* Chiyu Zhang, Muhammad Abdul-Mageed.<span style="color:blue">Online</span>
+- 10:10 - 10:30 - *Improving Social Meaning Detection with Pragmatic Masking and Surrogate Fine-Tuning.* Chiyu Zhang, Muhammad Abdul-Mageed. <span style="color:blue">Online</span>
 
 
 ### Shared Task
@@ -70,9 +70,16 @@ His research focuses on computational social science and he is interested in wha
 
 <img src="/assets/images/rada_mihalcea.jpg" width="200" height="100">
 
+#### Beneath the Tip of the Iceberg: Current Challenges and New Directions in Sentiment Analysis Research
+
+
+Sentiment analysis as a field has come a long way since it was first introduced as a task nearly 20 years ago. It has widespread commercial applications in various domains like marketing, risk management, market research, and politics, to name a few. Given its saturation in specific subtasks -- such as sentiment polarity classification -- and datasets, there is an underlying perception that this field has reached its maturity. In this article, we discuss this perception by pointing out the shortcomings and under-explored, yet key aspects of this field that are necessary to attain true sentiment understanding. We analyze the significant leaps responsible for its current relevance. Further, we attempt to chart a possible course for this field that covers many overlooked and unanswered questions.
+
+Joint work with Soujanya Poria, Devamanyu Hazarika, Navonil Majumder
+
 
 #### Bio
-Rada Mihalcea is a full professor of computer science and engineering at the University of Michigan. Her research focuses on natural language processing, multimodal processing, and computational social science. She has published extensively on sentiment and subjectivity, multimodal deception detection, and computational social linguistics.
+Rada Mihalcea is the Janice M. Jenkins Collegiate Professor of Computer Science and Engineering at the University of Michigan and the Director of the Michigan Artificial Intelligence Lab. Her research interests are in computational linguistics, with a focus on lexical semantics, multilingual natural language processing, and computational social sciences. She serves or has served on the editorial boards of the Journals of Computational Linguistics, Language Resources and Evaluations, Natural Language Engineering, Journal of Artificial Intelligence Research, IEEE Transactions on Affective Computing, and  Transactions of the Association for Computational Linguistics. She was a program co-chair for EMNLP 2009 and ACL 2011, and a general chair for NAACL 2015 and *SEM 2019. She currently serves as ACL Past President. She is the recipient of a Presidential Early Career Award for Scientists and Engineers awarded by President Obama (2009), an ACM Fellow (2019) and a AAAI Fellow (2021). In 2013, she was made an honorary citizen of her hometown of Cluj-Napoca, Romania.
 
 
 
