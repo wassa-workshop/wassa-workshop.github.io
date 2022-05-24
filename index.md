@@ -14,7 +14,7 @@ header:
 
 ## News
 
-**May 24**: Final Program (https://wassa-workshop.github.io/2022/schedule).
+**May 24**: [Final Program](https://wassa-workshop.github.io/2022/schedule).
 
 **April 14**: We have the [provisional schedule](https://wassa-workshop.github.io/2022/schedule) ready.
 

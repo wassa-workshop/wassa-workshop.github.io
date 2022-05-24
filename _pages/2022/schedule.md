@@ -22,9 +22,9 @@ All times are local Dublin (UTC/GMT +1 hour)
 |  09:10 - 10:30 |  [Oral presentation session 1](#oral-presentation-session-1) |
 |  10:30 - 11:00 |  Coffee Break                |
 |  11:00 - 12:00 |  [Shared Task Session](#shared-task)         |
-|  12:00–13:00   |  [Invited Talk: Dirk Hovy - Mind the Gaps and Normal Accidents](#invited-talk-dirk-hovy)     |
+|  12:00 - 13:00 |  [Invited Talk: Dirk Hovy](#invited-talk-dirk-hovy) - Mind the Gaps and Normal Accidents    |
 |  13:00 - 14:00 |  Lunch Break                 |
-|  14:00 - 15:00 |  [Invited Talk: Rada Mihalcea - Beneath the Tip of the Iceberg: Current Challenges and New Directions in Sentiment Analysis Research](#invited-talk-rada-mihalcea) |
+|  14:00 - 15:00 |  [Invited Talk: Rada Mihalcea](#invited-talk-rada-mihalcea) - Beneath the Tip of the Iceberg: Current Challenges and New Directions in Sentiment Analysis Research |
 |  15:00 - 15:30 |  Coffee break                |
 |  15:30 - 16:15 |  [In-person poster session](#in-person-poster-session)    |
 |  16:15 - 17:15 |  [Oral presentation session 2](#oral-presentation-session-2)  |
