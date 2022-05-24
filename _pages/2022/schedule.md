@@ -101,7 +101,8 @@ Rada Mihalcea is the Janice M. Jenkins Collegiate Professor of Computer Science 
 
 - 16:15 - 16:35 - *Distinguishing In-Groups and Onlookers by Language Use.* Joshua R Minot, Milo Z Trujillo, Samuel F Rosenblatt, Guillermo de Anda-Jáuregui, Emily Moog, Allison M. Roth, Briane Paul Samson, Laurent Hébert-Dufresne. <span style="color:blue">In-person</span>
 - 16:35 - 16:55 - *“splink” is happy and “phrouth” is scary: Emotion Intensity Analysis for Nonsense Words.* Valentino Sabbatino, Enrica Troiano, Antje Schweitzer, Roman Klinger. <span style="color:blue">In-person</span>
-- 16:55 - 17:15 - *Explaining the Sentiment Prediction with Emotion Carriers: A Study on Personal Narratives.* Seyed Mahed Mousavi, Gabriel Roccabruna, Aniruddha Tammewar, Steve Azzolin, Giuseppe Riccardi. <span style="color:blue">In-person</span>
+- 16:55 - 17:15 - *Can Emotion Carriers Explain Automatic Sentiment Prediction?
+A Study on Personal Narratives* Seyed Mahed Mousavi, Gabriel Roccabruna, Aniruddha Tammewar, Steve Azzolin, Giuseppe Riccardi. <span style="color:blue">In-person</span>
 
 
 ### Virtual poster session
