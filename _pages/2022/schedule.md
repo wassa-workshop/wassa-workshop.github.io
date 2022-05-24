@@ -22,9 +22,9 @@ All times are local Dublin (UTC/GMT +1 hour)
 |  09:10 - 10:30 |  [Oral presentation session 1](#oral-presentation-session-1) |
 |  10:30 - 11:00 |  Coffee Break                |
 |  11:00 - 12:00 |  [Shared Task Session](#shared-task)         |
-|  12:00–13:00   |  [Invited Talk: Dirk Hovy](#invited-talk-dirk-hovy)     |
+|  12:00–13:00   |  [Invited Talk: Dirk Hovy - Mind the Gaps and Normal Accidents](#invited-talk-dirk-hovy)     |
 |  13:00 - 14:00 |  Lunch Break                 |
-|  14:00 - 15:00 |  [Invited Talk: Rada Mihalcea](#invited-talk-rada-mihalcea) |
+|  14:00 - 15:00 |  [Invited Talk: Rada Mihalcea - Beneath the Tip of the Iceberg: Current Challenges and New Directions in Sentiment Analysis Research](#invited-talk-rada-mihalcea) |
 |  15:00 - 15:30 |  Coffee break                |
 |  15:30 - 16:15 |  [In-person poster session](#in-person-poster-session)    |
 |  16:15 - 17:15 |  [Oral presentation session 2](#oral-presentation-session-2)  |
@@ -55,6 +55,19 @@ All times are local Dublin (UTC/GMT +1 hour)
 ---
 
 <img src="/assets/images/dirk_hovy.jpeg" width="200" height="100">
+
+#### Mind the Gaps and Normal Accidents
+
+NLP is now stable enough to be used in production systems, and will soon become even more pervasive. However, even today's systems are already highly complex and unpredictable. As they become more ubiquitous, different algorithms will interact with each other directly leading to tightly coupled systems whose capacity to cause harm we will be unable to predict.
+
+In his book Normal Accidents, the sociologist Charles Perrow proposed a framework to analyze technologies and their risks according to their complexity and the interdependence of their components. He showed that accidents were nigh on unavoidable due to those two features.
+
+We apply Perrow’s framework to NLP and argue that under the current paradigm, "normal accidents" are built into the system and only a matter of time, and that some issues in current NLP practice that aid this development:
+the early adoption of methods without sufficient understanding or analysis;
+the preference for computational methods regardless of risks associated with their limitations; the dangers of unexplainable methods.
+
+If these issues are not addressed, we risk a loss of reproducibility, reputability, and subsequently public trust in our field.
+Together, these factors can help us better understand the risks of complex NLP systems, and to make our systems safer and more reliable.
 
 
 #### Bio
