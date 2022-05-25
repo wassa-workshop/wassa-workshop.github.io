@@ -14,6 +14,8 @@ header:
 
 ## News
 
+**May 26**: [Doodle for after workshop dinner](https://doodle.com/meeting/participate/id/bW650w4a)
+
 **May 24**: [Final Program](https://wassa-workshop.github.io/2022/schedule).
 
 **April 14**: We have the [provisional schedule](https://wassa-workshop.github.io/2022/schedule) ready.
