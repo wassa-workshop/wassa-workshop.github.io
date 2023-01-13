@@ -14,7 +14,7 @@ header:
 
 ## News
 
-The OpenReview instance will soon be open.
+**January 13**: The [OpenReview Workshop Portal](https://openreview.net/group?id=aclweb.org/ACL/2023/Workshop/WASSA) is up.
 
 ### Invited Speakers
 
