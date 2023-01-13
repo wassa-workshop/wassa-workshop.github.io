@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "WASSA at ACL 2022<br/> Dublin, Ireland, 26 May, 2022<br>Hybrid (in person and online)"
+excerpt: "WASSA at ACL 2023<br/> Toronto, Canada, 13-14 July, 2023"
 layout: single
 classes: wide
 header:
@@ -10,35 +10,19 @@ header:
   overlay_image: /assets/images/banner3.jpg
 ---
 
-## 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis
+## 13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis
 
 ## News
 
-**May 26**: [Doodle for after workshop dinner](https://doodle.com/meeting/participate/id/bW650w4a)
-
-**May 24**: [Final Program](https://wassa-workshop.github.io/2022/schedule).
-
-**April 14**: We have the [provisional schedule](https://wassa-workshop.github.io/2022/schedule) ready.
-
-**April 9**: Dirk Hovy and Rada Mihalcea have agreed to give keynotes for WASSA 2022.
-
-**March 23**: Due to the deadline extension and reviewing difficulties, the final decisions will be sent by March 30th.
-
-**February 27**: We have extended the submission deadline until March 5th.
-
-**February 10**: We have added the option to commit ARR submissions + reviews via the [OpenReview Workshop Portal](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA).
-
-**December 22**: The [OpenReview Workshop Portal](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA) is up.
+The OpenReview instance will soon be open.
 
 ### Invited Speakers
 
-[Dirk Hovy](http://www.dirkhovy.com/index.php): Bocconi University
-
-[Rada Mihlcea](https://web.eecs.umich.edu/~mihalcea/): University of Michigan
+To be announced.
 
 ### Background and Envisaged Scope
 
-Starting with reviews on products on e-commerce sites and ending with the emotional effect presentin or intended by media coverage, research in automatic Subjectivity and Sentiment Analysis as wellas explicit and implicit Emotion Detection and Classification has flourished in the past years.  Theimportance of the field has been proven by the high number of approaches proposed in research in thepast decade, as well as by the interest it generated in other disciplines, such as Economics, Sociology,Psychology, Marketing, Crisis Management  Digital Humanities. Building on previous editions, the aim of WASSA 2022 is to bring together researchers workingon Subjectivity, Sentiment Analysis, Emotion Detection and Classification and their applications toother NLP or real-world tasks (e.g.  public health messaging, fake news, media impact analysis, socialmedia mining, computational literary studies) and researchers working on interdisciplinary aspectsof affect computation from text.  For this edition,  we encourage the submission of long and shortresearch and demo papers including, but not restricted to the following topics:
+Starting with reviews on products on e-commerce sites and ending with the emotional effect presentin or intended by media coverage, research in automatic Subjectivity and Sentiment Analysis as wellas explicit and implicit Emotion Detection and Classification has flourished in the past years.  Theimportance of the field has been proven by the high number of approaches proposed in research in thepast decade, as well as by the interest it generated in other disciplines, such as Economics, Sociology,Psychology, Marketing, Crisis Management  Digital Humanities. Building on previous editions, the aim of WASSA 2023 is to bring together researchers workingon Subjectivity, Sentiment Analysis, Emotion Detection and Classification and their applications toother NLP or real-world tasks (e.g.  public health messaging, fake news, media impact analysis, socialmedia mining, computational literary studies) and researchers working on interdisciplinary aspectsof affect computation from text.  For this edition,  we encourage the submission of long and shortresearch and demo papers including, but not restricted to the following topics:
 
 - Public sentiments and communication patterns of public health emergencies, e.g.  COVID-19
 - Resources for subjectivity, sentiment, emotion and social media analysis
