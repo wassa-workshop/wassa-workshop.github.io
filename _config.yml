@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WASSA 2022"
+title                    : "WASSA 2023"
 title_separator          : "–"
 name                     : "the WASSA organisers"
 description              : "Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis"
