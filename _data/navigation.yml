@@ -1,17 +1,17 @@
 main:
   - title: "Schedule"
-    url: /2022/schedule/
+    url: /2023/schedule/
   - title: "Important Dates"
-    url: /2022/dates/
+    url: /2023/dates/
   - title: "Submission"
-    url: /2022/submissions/
+    url: /2023/submissions/
   - title: "Shared Task"
-    url: /2022/shared_task/
+    url: /2023/shared_task/
   - title: "Committee"
-    url: /2022/committee/
+    url: /2023/committee/
   - title: "Contact"
-    url: /2022/contact/
+    url: /2023/contact/
   - title: "Call"
-    url: /2022/call-for-papers/
+    url: /2023/call-for-papers/
   - title: "Previous editions"
-    url: https://wt-public.emm4u.eu/wassa2021/
+    url: /2022/
