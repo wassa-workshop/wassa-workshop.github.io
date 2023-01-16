@@ -35,7 +35,7 @@ João Sedoc, New York University\
 Iqra Ameer, Yale University
 
 
-For questions and comments regarding the workshop please contact the organisers at <span class="contactaddr">wassa2022<span class="athere"></span>googlegroups.com</span>.
+For questions and comments regarding the workshop please contact the organisers at <span class="contactaddr">wassa2023<span class="athere"></span>googlegroups.com</span>.
 
 ### Programme Committee
 
