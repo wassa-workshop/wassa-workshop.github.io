@@ -18,7 +18,7 @@ header:
 * June 12, 2023 – Pre-recorded video due.
 * July 13-14, 2023 – Workshop.
 
-[OpenReview Workshop Instance](https://openreview.net/group?id=aclweb.org/ACL/2022/Workshop/WASSA) for both normal submissions and ARR commitments.
+[OpenReview Workshop Instance](https://openreview.net/group?id=aclweb.org/ACL/2023/Workshop/WASSA) for both normal submissions and ARR commitments.
 
 
 All deadlines are 23:59 UTC-12.
