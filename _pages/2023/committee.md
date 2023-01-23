@@ -29,19 +29,19 @@ window.addEventListener("load", init, false);
 # Main Workshop:
 Jeremy Barnes, University of the Basque Country UPV/EHU\
 Orphée De Clercq, Ghent University\
-Roman Klinger, University of Stuttgart\
+Roman Klinger, University of Stuttgart
 
 # Empathy Shared Task:
 Valentin Barriere \
 Salvatore Giorgi, University of Pennsylvania\
 Joaõ Sedoc, New York University\
-Shabnam Tafreshi, University of Maryland\
+Shabnam Tafreshi, University of Maryland
 
 # Codemixed Shared Task:
 Iqra Ameer, Yale University\
 Necva Bölücü, Hacettepe University\
 Hua Xu, Yale University\
-Ali Al Bataineh, Norwich University\
+Ali Al Bataineh, Norwich University
 
 
 ### Programme Committee
