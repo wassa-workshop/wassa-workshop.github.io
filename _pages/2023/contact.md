@@ -23,8 +23,10 @@ function init(){
 window.addEventListener("load", init, false);
 </script>
 
-We will update the contact information shortly for 2023.
 
-For questions and comments regarding the workshop please contact the organisers at <span class="contactaddr">wassa2023<span class="athere"></span>googlegroups.com</span>.
+For questions and comments regarding the *main workshop* please contact the organisers at <span class="contactaddr">wassa2023<span class="athere"></span>googlegroups.com</span>.
 
-For anything regarding the **shared task**, instead use, at <span class="contactaddr">wassa2022empathy<span class="athere"></span>@gmail.com</span>.
+
+For the *empathy shared task*: <span class="contactaddr">wassa23empathy<span class="athere"></span>gmail.com</span>.
+
+For the *codemixed shared task*: <span class="contactaddr">wassa23codemixed<span class="athere"></span>gmail.com</span>.

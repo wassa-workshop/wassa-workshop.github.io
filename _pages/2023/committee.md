@@ -26,16 +26,23 @@ window.addEventListener("load", init, false);
 
 ### Organisers
 
+# Main Workshop:
 Jeremy Barnes, University of the Basque Country UPV/EHU\
 Orphée De Clercq, Ghent University\
 Roman Klinger, University of Stuttgart\
-Valentin Barriere, European Commission’s Joint Research Center of Ispra\
-Shabnam Tafreshi,  University of Maryland\
-João Sedoc, New York University\
-Iqra Ameer, Yale University
 
+# Empathy Shared Task:
+Valentin Barriere \
+Salvatore Giorgi, University of Pennsylvania\
+Joaõ Sedoc, New York University\
+Shabnam Tafreshi, University of Maryland\
 
-For questions and comments regarding the workshop please contact the organisers at <span class="contactaddr">wassa2023<span class="athere"></span>googlegroups.com</span>.
+# Codemixed Shared Task:
+Iqra Ameer, Yale University\
+Necva Bölücü, Hacettepe University\
+Hua Xu, Yale University\
+Ali Al Bataineh, Norwich University\
+
 
 ### Programme Committee
 

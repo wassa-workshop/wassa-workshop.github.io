@@ -13,7 +13,7 @@ header:
 ### ACL’23, Toronto, Canada, 13 or 14 July, 2023
 
 ## Background and Envisaged Scope
-Starting with reviews on products on e-commerce sites and ending with the emotional effect present in or intended by media coverage, research in automatic Subjectivity and Sentiment Analysis, as well as explicit and implicit Emotion Detection and Classification is flourishing. The importance of the field has been proven by the high number of approaches proposed in research in the past decade, as well as by the interest it generated in other disciplines, such as Economics, Sociology, Psychology, Marketing, Crisis Management & Digital Humanities.
+ Subjectivity and Sentiment Analysis has become a highly developed research area, ranging from binary classification of reviews to the detection of complex emotion structures between entities found in text. This field has expanded both on a practical level, finding numerous successful applications in business, as well as on a theoretical level, allowing researchers to explore more complex research questions related to affective computing. Its continuing importance is also shown by the interest it generates in other disciplines such as Economics, Sociology, Psychology, Marketing, Crisis Management & Digital Humanities.
 
 The aim of WASSA 2023 is to bring together researchers working on Subjectivity, Sentiment Analysis, Emotion Detection and Classification and their applications to other NLP or real-world tasks (e.g. public health messaging, fake news, media impact analysis, social media mining, computational literary studies) and researchers working on interdisciplinary aspects of affect computation from text. For this edition, we encourage the submission of long and short research and demo papers including, but not restricted to the following topics:
 
@@ -34,6 +34,14 @@ The aim of WASSA 2023 is to bring together researchers working on Subjectivity, 
 - Applications of sentiment and emotion mining
 - Public sentiments and communication patterns of public health emergencies.
 
+We furthermore encourage submissions to the special theme Ethics in Affective Computing, including opinion papers, as well as experimental papers. This includes the following topics, but is not limited to them:
+
+- Which properties of a model render a automatic analysis task unethical?
+- Which characteristics of an annotation task are to be considered in ethical considerations?
+- What are appropriate methods to analyze data and models from an ethical perspective?
+- What aspects are particular important for affective analysis tasks, in contrast to other NLP
+settings?
+
 
 ### Important dates
 
@@ -45,13 +53,15 @@ The aim of WASSA 2023 is to bring together researchers working on Subjectivity, 
 * July 13 or 14, 2023 – Workshop. (exact date to be confirmed)
 
 
+Note that the shared tasks follow a different timeline that will be communicated separately.
+
 ### Papers
 
 
-At WASSA 2022, we will accept three types of submissions:
+At WASSA 2023, we will accept three types of submissions:
 For the regular research track we accept **long** & **short** papers.
 
-Additionally, we accept double submissions and double commitment of ARR reviews in parallel to WASSA and another venue. Please note that you must immediately withdraw your paper from WASSA if you decide to publish it elsewhere.
+Additionally, we accept double submissions and double commitment of ARR reviews in parallel to WASSA and another venue. Please note that you must immediately withdraw your paper from WASSA if you decide to publish it elsewhere. They must be committed to the workshop (together with the reviews) not later than May 1, 2023.
 
 #### Long papers
 **Long** papers may consist of up to eight (8) pages of content, with any number of additional pages of references, and will be presented orally.
