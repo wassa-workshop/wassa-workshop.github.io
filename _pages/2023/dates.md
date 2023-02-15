@@ -16,7 +16,7 @@ header:
 * May 22, 2023 – Notification of acceptance.
 * June 6, 2023 – Camera-ready papers due.
 * June 12, 2023 – Pre-recorded video due.
-* July 13-14, 2023 – Workshop.
+* July 14, 2023 – Workshop.
 
 [OpenReview Workshop Instance](https://openreview.net/group?id=aclweb.org/ACL/2023/Workshop/WASSA) for both normal submissions and ARR commitments.
 

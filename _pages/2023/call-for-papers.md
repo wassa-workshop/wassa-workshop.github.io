@@ -10,7 +10,7 @@ header:
 ---
 
 ## 13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA 2023)
-### ACL’23, Toronto, Canada, 13 or 14 July, 2023
+### ACL’23, Toronto, Canada, 14 July, 2023
 
 ## Background and Envisaged Scope
  Subjectivity and Sentiment Analysis has become a highly developed research area, ranging from binary classification of reviews to the detection of complex emotion structures between entities found in text. This field has expanded both on a practical level, finding numerous successful applications in business, as well as on a theoretical level, allowing researchers to explore more complex research questions related to affective computing. Its continuing importance is also shown by the interest it generates in other disciplines such as Economics, Sociology, Psychology, Marketing, Crisis Management & Digital Humanities.
@@ -50,7 +50,7 @@ settings?
 * May 22, 2023 – Notification of acceptance.
 * June 6, 2023 – Camera-ready papers due.
 * June 12, 2023 – Pre-recorded video due.
-* July 13 or 14, 2023 – Workshop. (exact date to be confirmed)
+* July 14, 2023 – Workshop. (exact date to be confirmed)
 
 
 Note that the shared tasks follow a different timeline that will be communicated separately.

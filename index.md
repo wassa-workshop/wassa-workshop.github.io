@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "WASSA at ACL 2023<br/> Toronto, Canada, 13-14 July, 2023"
+excerpt: "WASSA at ACL 2023<br/> Toronto, Canada, 14 July, 2023"
 layout: single
 classes: wide
 header:
@@ -13,6 +13,8 @@ header:
 ## 13th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis
 
 ## News
+
+**February 15**: The date of WASSA 2023 is confirmed to be the 14th of July.
 
 **January 13**: The [OpenReview Workshop Portal](https://openreview.net/group?id=aclweb.org/ACL/2023/Workshop/WASSA) is up.
 
