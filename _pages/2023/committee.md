@@ -32,7 +32,7 @@ Orphée De Clercq, Ghent University\
 Roman Klinger, University of Stuttgart
 
 # Empathy Shared Task:
-Valentin Barriere \
+Valentin Barriere, Centro Nacional de Inteligencia Artificial (CENIA) \
 Salvatore Giorgi, University of Pennsylvania\
 Joaõ Sedoc, New York University\
 Shabnam Tafreshi, University of Maryland
