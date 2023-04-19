@@ -45,12 +45,12 @@ settings?
 
 ### Important dates
 
-* April 24, 2023– Submission deadline.
+* April 28, 2023– Submission deadline.
 * May 1, 2023 – Commitment deadline for submitting through ARR with reviews
-* May 22, 2023 – Notification of acceptance.
+* May 23, 2023 – Notification of acceptance.
 * June 6, 2023 – Camera-ready papers due.
 * June 12, 2023 – Pre-recorded video due.
-* July 14, 2023 – Workshop. (exact date to be confirmed)
+* July 14, 2023 – Workshop.
 
 
 Note that the shared tasks follow a different timeline that will be communicated separately.

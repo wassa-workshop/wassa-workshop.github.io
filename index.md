@@ -14,6 +14,8 @@ header:
 
 ## News
 
+**April 19**: We have extended the submission deadline to April 28th (see Important Dates for further details of changes)
+
 **February 15**: The date of WASSA 2023 is confirmed to be the 14th of July.
 
 **January 13**: The [OpenReview Workshop Portal](https://openreview.net/group?id=aclweb.org/ACL/2023/Workshop/WASSA) is up.
