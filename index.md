@@ -56,3 +56,7 @@ We furthermore encourage submissions to the special theme Ethics in Affective Co
 - What are appropriate methods to analyze data and models from an ethical perspective?
 - What aspects are particular important for affective analysis tasks, in contrast to other NLP
 settings?
+
+
+
+![image info](./assets/images/google_logo.png)
