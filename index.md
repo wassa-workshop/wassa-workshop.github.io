@@ -59,6 +59,6 @@ settings?
 
 
 
-Sponsors:
+### Sponsors:
 
 <img src="./assets/images/google_logo.png"  width="50%" height="50%">
