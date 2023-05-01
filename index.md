@@ -14,6 +14,8 @@ header:
 
 ## News
 
+**May 1**: WASSA 2023 submissions will need to upload prerecorded videos and slides on Underline, following the process of the main conference. The hard deadline for uploading is June 5, 2023. We will include further information regarding where to submit these in the future, but please take this into account when planning your presentations.
+
 **April 25**: Emily Öhman has confirmed that she will be one of the invited speakers.
 
 **April 19**: We have extended the submission deadline to April 28th (see Important Dates for further details of changes)
