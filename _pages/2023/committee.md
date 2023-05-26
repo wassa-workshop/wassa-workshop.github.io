@@ -46,4 +46,63 @@ Ali Al Bataineh, Norwich University
 
 ### Programme Committee
 
-To be added
+Aaron Maladry
+Petter Mæhlum
+Flor Miriam Plaza del Arco
+Luna De Bruyne
+Kokil Jaidka
+L. Alfonso Ureña
+Thomas Nikolaus Haider
+Tak-Lam Wong
+Yoshihiko Hayashi
+Akbar Karimi
+Amine Trabelsi
+Arkaitz Zubiaga
+Aswathy Velutharambath
+Charles Welch
+Constantin Orasan
+EMERSON CABRERA PARAISO
+Efstathios Stamatatos
+Elma Kerz
+Els Lefever
+Eugenio Martinez-Camara
+Irene Russo
+Jessica Ouyang
+Jin Wang
+Joan Plepi
+Koji Eguchi
+L. Alfonso Ureña
+María-Teresa Martín-Valdivia
+Mayank Kulkarni
+Murali Balusu
+Natalia V Loukachevitch
+Rodrigo Agerri
+Salud María Jiménez-Zafra
+Samia Touileb
+Tak-Lam Wong
+Tilman Beck
+Yoshihiko Hayashi
+Zeerak Talat
+Amita Misra
+Amita Misra
+Anil Ramakrishna
+Enrica Troiano
+Iñaki San Vicente
+Jacky Visser
+Michael Wiegand
+Salim Sazzed
+Wazir Ali
+Mohamad Hardyman Barawi
+Jeremy Barnes
+Sivaji Bandyopadhyay
+Annerose Eichel
+Ashutosh Modi
+Loic De Langhe
+Pranaydeep Singh
+Sivaji Bandyopadhyay
+Sai Kiran Tanikella
+Abhinav Joshi
+Neele Falk
+Orphee De Clercq
+Sai Kiran Tanikella
+Sofie Labat
