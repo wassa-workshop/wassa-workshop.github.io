@@ -83,7 +83,7 @@ David Jurgens is an assistant professor at the University of Michigan School of 
 
 ---
 
-<img src="/assets/images/emilyohman.jpg" width="200" height="100">
+<img src="/assets/images/emilyohman.jpeg" width="200" height="100">
 
 #### Affective Datafication of Narratives: measuring affect, emotion, and mood in literary texts
 
