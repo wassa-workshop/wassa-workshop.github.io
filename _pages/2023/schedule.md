@@ -16,7 +16,7 @@ header:
 
 ---
 
-All times are local Toronto (UTC/GMT +1 hour)
+All times are local Toronto (UTC/GMT -4 hour)
 
 
 |  Time          |  Programmed Session          |
@@ -40,12 +40,10 @@ All times are local Toronto (UTC/GMT +1 hour)
 
 - 9:10 - 9:25 - *A Fine Line Between Irony and Sincerity: Identifying Bias in Transformer Models
 for Irony Detection.* Aaron Maladry, Els Lefever, Cynthia Van Hee and Veronique Hoste <span style="color:blue">In-person</span>
-- 9:25 - 9:40 - *Instruction Tuning for Few-Shot Aspect-Based Sentiment Analysis.* Siddharth Varia, Shuai Wang, Kishaloy Halder, Robert Vacareanu, Miguel Ballesteros, Yassine Benajiba, Neha Anna John, Rishita Anubhai, Smaranda Muresan
-and Dan Roth. <span style="color:blue">In-person</span>
+- 9:25 - 9:40 - *Towards Detecting Harmful Agendas in News Articles.* Melanie Subbiah, Amrita Bhattacharjee, Yilun Hua, Tharindu Sandaruwan Kumarage, Huan Liu and Kathleen McKeown. <span style="color:blue">In-person</span>
 - 9:40 - 9:55 - *Unsupervised Domain Adaptation using Lexical Transformations and Label Injection for Twitter Data.* Akshat Gupta, Xiaomo Liu and Sameena Shah.<span style="color:blue">Virtual</span>
 - 9:55 - 10:10 - *Context-Dependent Embedding Utterance Representations for Emotion Recognition in Conversations.* Patrícia Pereira, Helena Silva Moniz, Isabel Dias and Joao Paulo Carvalho. <span style="color:blue">In-person</span>
-- 10:10 - 10:25 - *Multilingual Language Models are not Multicultural: A Case Study in Emotion.* Shreya Havaldar, Bhumika Singhal, Sunny Rai, Langchen Liu, Sharath Chandra
-Guntuku and Lyle Ungar. <span style="color:blue">In-person</span>
+- 10:10 - 10:25 - *Multilingual Language Models are not Multicultural: A Case Study in Emotion.* Shreya Havaldar, Bhumika Singhal, Sunny Rai, Langchen Liu, Sharath Chandra Guntuku and Lyle Ungar. <span style="color:blue">In-person</span>
 
 ### Hybrid poster session (11:00 - 12:30:)
  **All posters - in-person and virtual - (including the shared task posters not shown below) will be presented at the same time slot.**
@@ -138,5 +136,6 @@ Her research interests lie within digital humanities and NLP, more specifically 
 - 17:00 - 17:15 - *Identifying Slurs and Lexical Hate Speech via Light-Weight Dimension Projection in Embedding Space.* Sanne Hoeken, Sina Zarrieß and Ozge Alacam. <span style="color:blue">In-person</span>
 - 17:15 - 17:30 - *Modelling Political Aggression on Social Media Platforms.* Akash Rawat, Nazia Nafis, Dnyaneshwar Bhadane, Diptesh Kanojia and Rudra
 Murthy. <span style="color:blue">Virtual</span>
-- 17:30 - 17:45 - *Towards Detecting Harmful Agendas in News Articles.* Melanie Subbiah, Amrita Bhattacharjee, Yilun Hua, Tharindu Sandaruwan Kumarage, Huan Liu and Kathleen McKeown. <span style="color:blue">In-person</span>
+- 17:30 - 17:45 - *Instruction Tuning for Few-Shot Aspect-Based Sentiment Analysis.* Siddharth Varia, Shuai Wang, Kishaloy Halder, Robert Vacareanu, Miguel Ballesteros, Yassine Benajiba, Neha Anna John, Rishita Anubhai, Smaranda Muresan
+and Dan Roth. <span style="color:blue">Virtual</span>
 - 17:45 - 18:00 - *Painsight: An Extendable Opinion Mining Framework for Detecting Pain Points Based on Online Customer Reviews* Yukyung Lee, Jaehee Kim, Doyoon Kim, Yookyung Kho, Younsun Kim and Pilsung Kang. <span style="color:blue">Virtual</span>
