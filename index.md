@@ -14,6 +14,8 @@ header:
 
 ## News
 
+**July 14**: [The proceedings are temporarily available here](./assets/proceedings_2023.pdf) until they are fully included on aclanthology, 
+
 **June 19**: The schedule for WASSA 2023 is now up.
 
 **May 25**: David Jurgens has confirmed that he will be an invited speaker as well.
