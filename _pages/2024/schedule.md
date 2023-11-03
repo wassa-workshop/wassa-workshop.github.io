@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-permalink: /2023/schedule/
+permalink: /2024/schedule/
 layout: single
 classes: wide
 header:

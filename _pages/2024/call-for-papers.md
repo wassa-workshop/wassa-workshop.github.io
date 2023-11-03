@@ -1,6 +1,6 @@
 ---
 title: "Call for Papers"
-permalink: /2023/call-for-papers/
+permalink: /2024/call-for-papers/
 layout: single
 classes: wide
 header:

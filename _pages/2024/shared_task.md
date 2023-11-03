@@ -1,6 +1,6 @@
 ---
 title: "Shared Task"
-permalink: /2023/shared_task/
+permalink: /2024/shared_task/
 layout: single
 classes: wide
 header:
