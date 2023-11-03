@@ -14,7 +14,7 @@ header:
 
 ## News
 
-**July 14**: [The proceedings are temporarily available here](./assets/proceedings_2023.pdf) until they are fully included on aclanthology, 
+**July 14**: [The proceedings are temporarily available here](./assets/proceedings_2023.pdf) until they are fully included on aclanthology. The online version of the hybrid poster session will be on GatherTown. If you access the ACL underline and find the WASSA page, you should have links to both Zoom and GatherTown. If you have any problems, let us know.
 
 **June 19**: The schedule for WASSA 2023 is now up.
 
