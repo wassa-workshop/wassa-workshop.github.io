@@ -11,14 +11,11 @@ header:
 
 ### Important Dates:
 
-* April 28, 2023– Submission deadline.
-* May 1, 2023 – Commitment deadline for submitting through ARR with reviews
-* May 23, 2023 – Notification of acceptance.
-* June 6, 2023 – Camera-ready papers due.
-* June 12, 2023 – Pre-recorded video due.
-* July 14, 2023 – Workshop.
-
-[OpenReview Workshop Instance](https://openreview.net/group?id=aclweb.org/ACL/2023/Workshop/WASSA) for both normal submissions and ARR commitments.
-
+* February 5, 2024 - First call for papers
+* March 4, 2024 - Second call for papers
+* May, 17 2024 - Paper submission deadline
+* June, 17 2024 – Notification of acceptance.
+* July 1, 2024 - Camera-ready papers due.
+* August 15 or 16, 2024 – Workshop.
 
 All deadlines are 23:59 UTC-12.

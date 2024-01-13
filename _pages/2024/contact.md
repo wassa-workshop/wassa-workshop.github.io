@@ -24,9 +24,6 @@ window.addEventListener("load", init, false);
 </script>
 
 
-For questions and comments regarding the *main workshop* please contact the organisers at <span class="contactaddr">wassa2023<span class="athere"></span>googlegroups.com</span>.
+For questions and comments regarding the *main workshop* please contact the organisers at <span class="contactaddr">orphee.declercq<span class="athere"></span>ugent.be</span>.
 
 
-For the *empathy shared task*: <span class="contactaddr">wassa23empathy<span class="athere"></span>gmail.com</span>.
-
-For the *codemixed shared task*: <span class="contactaddr">wassa23codemixed<span class="athere"></span>gmail.com</span>.
